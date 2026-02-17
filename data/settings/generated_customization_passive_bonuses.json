@@ -1,0 +1,497 @@
+{
+    "entries": 25,
+    "1": {
+        "name": "EXTRA PADDING @ 4207037112",
+        "icon": "0x3642b3057d12359e",
+        "modifiers": {
+            "2947431239": {
+                "modifier_type": 1,
+                "value": 1.0,
+                "desc_loc": "Provides a <c=#COLOR>higher armor rating</c>. @ 1802981327"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "8": {
+        "name": "SERVO-ASSISTED @ 142525292",
+        "icon": "0x6435159d8e466b03",
+        "modifiers": {
+            "650733985": {
+                "modifier_type": 2,
+                "value": 1.2999999523162842,
+                "desc_loc": "Increases throwing range by <c=#COLOR>#BONUS</c>. @ 4083283407"
+            },
+            "2259262393": {
+                "modifier_type": 2,
+                "value": 1.5,
+                "desc_loc": "Provides <c=#COLOR>#SIGN#BONUS</c> limb health. @ 2398339361"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "6": {
+        "name": "ENGINEERING KIT @ 1160689016",
+        "icon": "0x7c818b04a594d8e5",
+        "modifiers": {
+            "3278452137": {
+                "modifier_type": 2,
+                "value": 0.699999988079071,
+                "desc_loc": "Further reduces recoil when crouching or prone by <c=#COLOR>#BONUS</c>. @ 276558649"
+            },
+            "4143617574": {
+                "modifier_type": 1,
+                "value": 2.0,
+                "desc_loc": "Increases initial inventory and holding capacity of throwables by <c=#COLOR>#SIGN#BONUS</c>. @ 4144979903"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "7": {
+        "name": "MED-KIT @ 1938376644",
+        "icon": "0xe5ad658ba8221acf",
+        "modifiers": {
+            "678818890": {
+                "modifier_type": 1,
+                "value": 2.0,
+                "desc_loc": "Increases initial inventory and holding capacity of stims by <c=#COLOR>#SIGN#BONUS</c>. @ 3264472874"
+            },
+            "2481657511": {
+                "modifier_type": 3,
+                "value": 2.0,
+                "desc_loc": "Increases stim effect duration by <c=#COLOR>#BONUS</c>. @ 2230489000"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "19": {
+        "name": "ADRENO-DEFIBRILLATOR @ 2198640368",
+        "icon": "0xc2d003ee391e9d0",
+        "modifiers": {
+            "0": {
+                "modifier_type": 0,
+                "value": 0.0,
+                "desc_loc": "Provides one-time, short-lived resuscitation upon death, given that the Helldiver's body is still intact. @ 1426645361"
+            },
+            "2481657511": {
+                "modifier_type": 3,
+                "value": 2.0,
+                "desc_loc": "Increases stim effect duration by <c=#COLOR>#BONUS</c>. @ 2230489000"
+            },
+            "1272920516": {
+                "modifier_type": 2,
+                "value": 0.5,
+                "desc_loc": "Provides <c=#COLOR>#BONUS</c> resistance to arc damage. @ 980701584"
+            },
+            "2301880308": {
+                "modifier_type": 2,
+                "value": 0.05000000074505806,
+                "desc_loc": "None"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "21": {
+        "name": "DESERT STORMER @ 3224129712",
+        "icon": "0xc4cf3510df2d3adb",
+        "modifiers": {
+            "3047489686": {
+                "modifier_type": 2,
+                "value": 0.6000000238418579,
+                "desc_loc": "Provides <c=#COLOR>#BONUS</c> resistance to fire, gas, acid, and electrical damage. @ 1113593779"
+            },
+            "2301880308": {
+                "modifier_type": 2,
+                "value": 0.05999999865889549,
+                "desc_loc": "None"
+            },
+            "650733985": {
+                "modifier_type": 2,
+                "value": 1.2000000476837158,
+                "desc_loc": "Increases throwing range by <c=#COLOR>#BONUS</c>. @ 4083283407"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "15": {
+        "name": "ACCLIMATED @ 3241737675",
+        "icon": "0x341a3b9cb9629a6e",
+        "modifiers": {
+            "3047489686": {
+                "modifier_type": 2,
+                "value": 0.5,
+                "desc_loc": "Provides <c=#COLOR>#BONUS</c> resistance to fire, gas, acid, and electrical damage. @ 1113593779"
+            },
+            "2301880308": {
+                "modifier_type": 2,
+                "value": 0.05000000074505806,
+                "desc_loc": "None"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "5": {
+        "name": "ELECTRICAL CONDUIT @ 1724458231",
+        "icon": "0x557ac351ac2efd83",
+        "modifiers": {
+            "1272920516": {
+                "modifier_type": 2,
+                "value": 0.05000000074505806,
+                "desc_loc": "Provides <c=#COLOR>#BONUS</c> resistance to arc damage. @ 980701584"
+            },
+            "2301880308": {
+                "modifier_type": 2,
+                "value": 0.05000000074505806,
+                "desc_loc": "None"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "11": {
+        "name": "INFLAMMABLE @ 2332776870",
+        "icon": "0xb70e83517e7e9d2a",
+        "modifiers": {
+            "1307742833": {
+                "modifier_type": 2,
+                "value": 0.25,
+                "desc_loc": "Provides <c=#COLOR>#BONUS</c> damage resistance to fire, allowing bearer to rest assured in their inflammability. @ 283424312"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "3": {
+        "name": "FORTIFIED @ 4176618764",
+        "icon": "0x2dd4b3f171775457",
+        "modifiers": {
+            "3278452137": {
+                "modifier_type": 2,
+                "value": 0.699999988079071,
+                "desc_loc": "Further reduces recoil when crouching or prone by <c=#COLOR>#BONUS</c>. @ 276558649"
+            },
+            "530108754": {
+                "modifier_type": 2,
+                "value": 0.5,
+                "desc_loc": "Provides <c=#COLOR>#BONUS</c> resistance to explosive damage. @ 3110966073"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "13": {
+        "name": "ADVANCED FILTRATION @ 2096098484",
+        "icon": "0x501271ef8b35994e",
+        "modifiers": {
+            "1855573221": {
+                "modifier_type": 2,
+                "value": 0.20000000298023224,
+                "desc_loc": "Provides <c=#COLOR>#BONUS</c> resistance to gas damage and effects. @ 2613716205"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "9": {
+        "name": "DEMOCRACY PROTECTS @ 1236709379",
+        "icon": "0x61ae934caa6f09da",
+        "modifiers": {
+            "3414248709": {
+                "modifier_type": 2,
+                "value": 1.5,
+                "desc_loc": "<c=#COLOR>#BONUS</c> chance to not die when taking lethal damage. @ 3954717673"
+            },
+            "2794008770": {
+                "modifier_type": 2,
+                "value": 0.0,
+                "desc_loc": "Prevents <c=#COLOR>all damage from bleeding</c> if chest hemorrhages. @ 2277719467"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "16": {
+        "name": "SIEGE-READY @ 1511760777",
+        "icon": "0x8667ed2ca6a6846f",
+        "modifiers": {
+            "3427994401": {
+                "modifier_type": 2,
+                "value": 1.2999999523162842,
+                "desc_loc": "Increases reload speed of primary weapons by <c=#COLOR>#BONUS</c>. @ 3205286516"
+            },
+            "868861715": {
+                "modifier_type": 2,
+                "value": 1.2000000476837158,
+                "desc_loc": "Increases ammo capacity of all weapons by <c=#COLOR>#BONUS</c>. Does not affect weapon backpacks. @ 4096946733"
+            }
+        },
+        "stat_modifiers": [
+            {
+                "type": 13,
+                "add_value": 0.0,
+                "mul_value": 1.2999999523162842
+            },
+            {
+                "type": 12,
+                "add_value": 0.0,
+                "mul_value": 1.2000000476837158
+            }
+        ]
+    },
+    "33": {
+        "name": "ROCK-SOLID @ 232359449",
+        "icon": "0x90502679ec8f7942",
+        "modifiers": {
+            "626635789": {
+                "modifier_type": 2,
+                "value": 1.399999976158142,
+                "desc_loc": "Increases melee damage by <c=#COLOR>#BONUS</c>. @ 117522071"
+            },
+            "234819138": {
+                "modifier_type": 0,
+                "value": 1.0,
+                "desc_loc": "None"
+            },
+            "295944268": {
+                "modifier_type": 2,
+                "value": 0.699999988079071,
+                "desc_loc": "Bearer is more resistant to being knocked prone. @ 3828783979"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "20": {
+        "name": "BALLISTIC PADDING @ 2126903330",
+        "icon": "0x6e1de6f251d0aec6",
+        "modifiers": {
+            "754642083": {
+                "modifier_type": 2,
+                "value": 0.75,
+                "desc_loc": "Provides <c=#COLOR>#BONUS</c> resistance to chest damage. @ 698831992"
+            },
+            "530108754": {
+                "modifier_type": 2,
+                "value": 0.75,
+                "desc_loc": "Provides <c=#COLOR>#BONUS</c> resistance to explosive damage. @ 3110966073"
+            },
+            "2794008770": {
+                "modifier_type": 2,
+                "value": 0.0,
+                "desc_loc": "Prevents <c=#COLOR>all damage from bleeding</c> if chest hemorrhages. @ 2277719467"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "31": {
+        "name": "FEET FIRST @ 2458412307",
+        "icon": "0x64fcb7d7e42e8c3a",
+        "modifiers": {
+            "2945151250": {
+                "modifier_type": 2,
+                "value": 0.5,
+                "desc_loc": "Wearer makes <c=#COLOR>#BONUS</c> less noise when moving. @ 2341805933"
+            },
+            "1126857107": {
+                "modifier_type": 2,
+                "value": 1.2999999523162842,
+                "desc_loc": "Increases point-of-interest identification range by <c=#COLOR>#BONUS</c>. @ 3297369983"
+            },
+            "3056290557": {
+                "modifier_type": 0,
+                "value": 1.0,
+                "desc_loc": "Provides immunity to leg injuries. @ 3559556444"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "12": {
+        "name": "PEAK PHYSIQUE @ 467298293",
+        "icon": "0x978ea957fa83a4c9",
+        "modifiers": {
+            "626635789": {
+                "modifier_type": 2,
+                "value": 1.399999976158142,
+                "desc_loc": "Increases melee damage by <c=#COLOR>#BONUS</c>. @ 117522071"
+            },
+            "3368859386": {
+                "modifier_type": 1,
+                "value": 0.30000001192092896,
+                "desc_loc": "Improves weapons handling with less drag on weapon movement. @ 3548404646"
+            },
+            "234819138": {
+                "modifier_type": 0,
+                "value": 1.0,
+                "desc_loc": "None"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "17": {
+        "name": "INTEGRATED EXPLOSIVES @ 2043079863",
+        "icon": "0xc12acd1176804821",
+        "modifiers": {
+            "1420202628": {
+                "modifier_type": 3,
+                "value": 1.5,
+                "desc_loc": "Armor explodes <c=#COLOR>#BONUS</c> after the wearer dies. @ 88479674"
+            },
+            "4143617574": {
+                "modifier_type": 1,
+                "value": 2.0,
+                "desc_loc": "Increases initial inventory and holding capacity of throwables by <c=#COLOR>#SIGN#BONUS</c>. @ 4144979903"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "18": {
+        "name": "GUNSLINGER @ 306935634",
+        "icon": "0x11fc1753d5a4f6a2",
+        "modifiers": {
+            "3036184873": {
+                "modifier_type": 2,
+                "value": 1.399999976158142,
+                "desc_loc": "Increases sidearms reload speed by <c=#COLOR>#BONUS</c>. @ 3466014766"
+            },
+            "2907867646": {
+                "modifier_type": 2,
+                "value": 1.5,
+                "desc_loc": "Sidearm draw/holster speed increased by <c=#COLOR>#BONUS</c>. @ 80576839"
+            },
+            "570646332": {
+                "modifier_type": 2,
+                "value": 0.30000001192092896,
+                "desc_loc": "Sidearm recoil reduced by <c=#COLOR>#BONUS</c>. @ 1582813692"
+            }
+        },
+        "stat_modifiers": [
+            {
+                "type": 14,
+                "add_value": 0.0,
+                "mul_value": 1.600000023841858
+            },
+            {
+                "type": 15,
+                "add_value": 0.0,
+                "mul_value": 1.5
+            },
+            {
+                "type": 16,
+                "add_value": 0.0,
+                "mul_value": 0.30000001192092896
+            }
+        ]
+    },
+    "14": {
+        "name": "UNFLINCHING @ 3851872716",
+        "icon": "0x17208f22c9f98adc",
+        "modifiers": {
+            "1936936295": {
+                "modifier_type": 0,
+                "value": 0.0,
+                "desc_loc": "Helps prevent Helldivers from flinching when hit. @ 158969120"
+            },
+            "2947431239": {
+                "modifier_type": 1,
+                "value": 0.5,
+                "desc_loc": "Provides a <c=#COLOR>higher armor rating</c>. @ 1802981327"
+            },
+            "564640356": {
+                "modifier_type": 3,
+                "value": 2.0,
+                "desc_loc": "Markers placed on the map will generate radar scans every <c=#COLOR>#BONUS</c>. @ 2051882320"
+            }
+        },
+        "stat_modifiers": [
+            {
+                "type": 11,
+                "add_value": 0.0,
+                "mul_value": 0.05000000074505806
+            }
+        ]
+    },
+    "34": {
+        "name": "SUPPLEMENTAL ADRENALINE @ 828730877",
+        "icon": "0xb6f70694e795e2d9",
+        "modifiers": {
+            "2710154678": {
+                "modifier_type": 1,
+                "value": 2.0,
+                "desc_loc": "When the wearer takes damage, they regain some stamina. @ 416307315"
+            },
+            "2947431239": {
+                "modifier_type": 1,
+                "value": 0.5,
+                "desc_loc": "Provides a <c=#COLOR>higher armor rating</c>. @ 1802981327"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "32": {
+        "name": "REDUCED SIGNATURE @ 3160067283",
+        "icon": "0x38033888feb0ec8d",
+        "modifiers": {
+            "2945151250": {
+                "modifier_type": 2,
+                "value": 0.5,
+                "desc_loc": "Wearer makes <c=#COLOR>#BONUS</c> less noise when moving. @ 2341805933"
+            },
+            "351063573": {
+                "modifier_type": 2,
+                "value": 0.6000000238418579,
+                "desc_loc": "Reduces range at which enemies can detect the wearer by <c=#COLOR>#BONUS</c>. @ 3031268253"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "10": {
+        "name": "REINFORCED EPAULETTES @ 2813945735",
+        "icon": "0x1917030bb5f2a130",
+        "modifiers": {
+            "3427994401": {
+                "modifier_type": 2,
+                "value": 1.2999999523162842,
+                "desc_loc": "Increases reload speed of primary weapons by <c=#COLOR>#BONUS</c>. @ 3205286516"
+            },
+            "4227156544": {
+                "modifier_type": 2,
+                "value": 1.5,
+                "desc_loc": "Gives wearer a <c=#COLOR>#BONUS</c> chance to avoid grievous limb injury. @ 4177020126"
+            },
+            "626635789": {
+                "modifier_type": 2,
+                "value": 1.2000000476837158,
+                "desc_loc": "Increases melee damage by <c=#COLOR>#BONUS</c>. @ 117522071"
+            }
+        },
+        "stat_modifiers": [
+            {
+                "type": 13,
+                "add_value": 0.0,
+                "mul_value": 1.2999999523162842
+            }
+        ]
+    },
+    "2": {
+        "name": "SCOUT @ 3682222023",
+        "icon": "0x6733080fb1201d53",
+        "modifiers": {
+            "564640356": {
+                "modifier_type": 3,
+                "value": 2.0,
+                "desc_loc": "Markers placed on the map will generate radar scans every <c=#COLOR>#BONUS</c>. @ 2051882320"
+            },
+            "351063573": {
+                "modifier_type": 2,
+                "value": 0.699999988079071,
+                "desc_loc": "Reduces range at which enemies can detect the wearer by <c=#COLOR>#BONUS</c>. @ 3031268253"
+            }
+        },
+        "stat_modifiers": []
+    },
+    "0": {
+        "name": "STANDARD ISSUE @ 1555196278",
+        "icon": "0x3642b3057d12359e",
+        "modifiers": {
+            "0": {
+                "modifier_type": 0,
+                "value": 0.0,
+                "desc_loc": "No additional bonuses. @ 2716085286"
+            }
+        },
+        "stat_modifiers": []
+    }
+}
