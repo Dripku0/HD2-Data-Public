@@ -5,6 +5,12 @@
         "name": "DEMOCRACY ALWAYS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -13,6 +19,12 @@
         "name": "ERIDANI",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -21,6 +33,12 @@
         "name": "CURRENCY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -29,6 +47,12 @@
         "name": "NEW NEWTONVILLE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -37,6 +61,12 @@
         "name": "OL' OLDHAM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -45,6 +75,12 @@
         "name": "TIMELY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -53,6 +89,12 @@
         "name": "APPROVAL CITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -61,6 +103,12 @@
         "name": "OLD BRANCH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -69,6 +117,12 @@
         "name": "VICTORY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -77,6 +131,12 @@
         "name": "CELEBRATION",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -85,6 +145,12 @@
         "name": "TRAITOR'S END",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -93,6 +159,12 @@
         "name": "STRENGTH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -101,6 +173,12 @@
         "name": "WALKAWAY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -109,6 +187,12 @@
         "name": "SLAYER CITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -117,6 +201,12 @@
         "name": "QZ-4",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -125,6 +215,12 @@
         "name": "SENATOR PEAKS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -133,6 +229,12 @@
         "name": "WORKSONG",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -141,6 +243,12 @@
         "name": "SEVERITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -149,6 +257,12 @@
         "name": "GREATER STOROUSE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -157,6 +271,12 @@
         "name": "NEW STOROUSE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -165,6 +285,12 @@
         "name": "SHED",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -173,6 +299,12 @@
         "name": "FREE TRADE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -181,6 +313,12 @@
         "name": "KESUMA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -189,6 +327,12 @@
         "name": "UNGU",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -197,6 +341,12 @@
         "name": "NO COMPOUND",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -205,6 +355,12 @@
         "name": "FILIBUSTER",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -213,6 +369,12 @@
         "name": "PERMACURIS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -221,14 +383,26 @@
         "name": "HANGAR 6",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
     "1097134956": {
         "inherits": "",
-        "name": "PORTE LIBERTÃ",
+        "name": "PORTE LIBERTÉ",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -237,6 +411,12 @@
         "name": "UNDERVATTEN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -245,6 +425,12 @@
         "name": "NEW TOKYO",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -253,6 +439,12 @@
         "name": "ASPEN HILLS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -261,6 +453,12 @@
         "name": "MEGACORPUS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -269,6 +467,12 @@
         "name": "BATU BELIG",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -277,6 +481,12 @@
         "name": "EAGLEMOUNT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -285,6 +495,12 @@
         "name": "COMMUNEFALLS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -293,6 +509,12 @@
         "name": "FAMILY GROVE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -301,6 +523,12 @@
         "name": "FUTURE PRIDE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -309,6 +537,12 @@
         "name": "SETTLER'S HONOR",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -317,6 +551,12 @@
         "name": "CONVENIENCE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -325,6 +565,12 @@
         "name": "FIREFLY MEADOWS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -333,6 +579,12 @@
         "name": "WALNUT ACRES",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -341,6 +593,12 @@
         "name": "VAULT CITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -349,6 +607,12 @@
         "name": "ZONE 3",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -357,6 +621,12 @@
         "name": "GIRD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -365,6 +635,12 @@
         "name": "REGISTER",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -373,6 +649,12 @@
         "name": "TVENNE BOTTOMS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -381,6 +663,12 @@
         "name": "LIFESWORTH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -389,6 +677,12 @@
         "name": "LOGISTICS HUB 232-B",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -397,6 +691,12 @@
         "name": "DIVER'S GLORY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -405,6 +705,12 @@
         "name": "BARREN WARD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -413,6 +719,12 @@
         "name": "EAGLECRY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -421,6 +733,12 @@
         "name": "HUNTER'S BLUFF",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -429,6 +747,12 @@
         "name": "EASTCLEFT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -437,6 +761,12 @@
         "name": "KINABATANGAN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -445,6 +775,12 @@
         "name": "DOWNPOUR",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -453,6 +789,12 @@
         "name": "LEMURIA RISING",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -461,6 +803,12 @@
         "name": "PIONEER'S DREAM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -469,6 +817,12 @@
         "name": "BASE CAMP 8",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -477,6 +831,12 @@
         "name": "AIDESVILLE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -485,6 +845,12 @@
         "name": "HILJAISUUS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -493,6 +859,12 @@
         "name": "KALASATAMA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -501,6 +873,12 @@
         "name": "YDINKESKUSTA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -509,6 +887,12 @@
         "name": "MAJOSYRI",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -517,6 +901,12 @@
         "name": "QUASAR",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -525,6 +915,12 @@
         "name": "ZENITH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -533,6 +929,12 @@
         "name": "SYCAMORE GARDENS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -541,6 +943,12 @@
         "name": "KODIAK FALLS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -549,6 +957,12 @@
         "name": "VOTING DISTRICT F-012357",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -557,6 +971,12 @@
         "name": "LIL'OME",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -565,6 +985,12 @@
         "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -573,6 +999,12 @@
         "name": "KURRI KURRI",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -581,6 +1013,12 @@
         "name": "ANNWN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -589,6 +1027,12 @@
         "name": "AGARTHA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -597,6 +1041,12 @@
         "name": "PROMINENCE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -605,6 +1055,12 @@
         "name": "AUTONOMY",
         "description": "High Command has identified this Megafactory as one of two potential beachheads for the invasion of Cyberstan. Rapid insertion protocols will restrict deployment ammunition. @ 2798581231",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "EnemyCity_Cyberstan",
         "links": [
             "OMNIPARITUS @ 1512842277",
             "LURZA @ 2634960640"
@@ -618,6 +1074,12 @@
         "name": "SOLIDARITET",
         "description": "High Command has identified this Megafactory as one of two potential beachheads for the invasion of Cyberstan. Anti-air fixtures will hamper Pelican extraction. @ 175084695",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "EnemyCity_Cyberstan",
         "links": [
             "OMNIPARITUS @ 1512842277",
             "CAMRAT FOR @ 3404329179"
@@ -631,6 +1093,12 @@
         "name": "OMNIPARITUS",
         "description": "Roughly translates to \"Destroy Freedom At All Costs.\" Significant conventional SEAF assaults will be required to support an offensive here, straining ammunition resources. @ 2915230518",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "EnemyCity_Cyberstan",
         "links": [
             "STAR KIELD @ 2735744233",
             "URSOOT NINE @ 1475859103"
@@ -647,6 +1115,12 @@
         "name": "LURZA",
         "description": "Monuments in this Megafactory twist history to valorize the supposed resolve of Cyborgs to \"endure\" Super Earth's benevolent attempts to rehabilitate them. \n\nAnti-air defenses will hinder Eagle operations. @ 1177472195",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "EnemyCity_Cyberstan",
         "links": [
             "STAR KIELD @ 2735744233"
         ],
@@ -661,6 +1135,12 @@
         "name": "CAMRAT FOR",
         "description": "This Megafactory contains significant Automaton production facilities. Anti-orbital defenses will tax Super Destroyer resources, resulting in longer orbital cooldowns. @ 3242992993",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "EnemyCity_Cyberstan",
         "links": [
             "URSOOT NINE @ 1475859103",
             "297843856 @ 297843856"
@@ -676,6 +1156,12 @@
         "name": "STAR KIELD",
         "description": "Roughly translates to \"All Humans Must Die.\" One of the largest Megafactories on Cyberstan. A critical military production node. Defended by the Jet Brigade. @ 1823257906",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "EnemyCity_Cyberstan",
         "links": [
             "TRANSCENDENCE @ 3380242454"
         ],
@@ -690,6 +1176,12 @@
         "name": "URSOOT NINE",
         "description": "Likely one of the earliest Megafactories to be constructed on Cyberstan. The most significant producer of Cyborg combatants. Defended by the Incineration Corps. @ 2572306280",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "EnemyCity_Cyberstan",
         "links": [
             "TRANSCENDENCE @ 3380242454"
         ],
@@ -704,6 +1196,12 @@
         "name": "TRANSCENDENCE",
         "description": "The first and most well-defended Megafactory. The nexus of Cyborg command. Its destruction will trigger the collapse of the enemy's defenses on Cyberstan. Expect extreme resistance. @ 1912858900",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "EnemyCity_Cyberstan",
         "links": [],
         "modifiers": [
             "2232702098 @ 2232702098",
@@ -719,6 +1217,12 @@
         "name": "BUJU",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -727,6 +1231,12 @@
         "name": "PINESWOLD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -735,6 +1245,12 @@
         "name": "DARROWSHOME",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -743,6 +1259,12 @@
         "name": "GRACIOUS LIBERTY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -751,6 +1273,12 @@
         "name": "LUSCIOUS LIBERTY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -759,6 +1287,12 @@
         "name": "COUNCILLOR RORA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -767,6 +1301,12 @@
         "name": "EIGHTRINGS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -775,6 +1315,12 @@
         "name": "BROKER'S WEALTH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -783,6 +1329,12 @@
         "name": "BRIGHT WING",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -791,6 +1343,12 @@
         "name": "WEST BROKER",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -799,6 +1357,12 @@
         "name": "INTEREST",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -807,6 +1371,12 @@
         "name": "WASTEMOUNT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -815,6 +1385,12 @@
         "name": "ESCAPADE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -823,6 +1399,12 @@
         "name": "LOGISTICS HUB 188-B",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -831,6 +1413,12 @@
         "name": "NEW PARADISE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -839,6 +1427,12 @@
         "name": "GREATER INVESTMENT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -847,6 +1441,12 @@
         "name": "NEW ASPIRATION CITY",
         "description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation. @ 985262540",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -855,6 +1455,12 @@
         "name": "FARMHANDSTOWN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -863,6 +1469,12 @@
         "name": "FORT BOUNTY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -871,6 +1483,12 @@
         "name": "FUTURIA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -879,6 +1497,12 @@
         "name": "NEW DA NANG",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -887,6 +1511,12 @@
         "name": "PHAM'S SITE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -895,6 +1525,12 @@
         "name": "OLD CHEMLAND",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -903,6 +1539,12 @@
         "name": "MINE 902",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -911,6 +1553,12 @@
         "name": "EPH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -919,6 +1567,12 @@
         "name": "HEART FLATS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -927,6 +1581,12 @@
         "name": "OMA PEMMA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -935,6 +1595,12 @@
         "name": "GEM LICKET",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -943,6 +1609,12 @@
         "name": "KELLA METAMORPH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -951,6 +1623,12 @@
         "name": "EVOLUTION PLATS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -959,6 +1637,12 @@
         "name": "UTOPIA VAREN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -967,6 +1651,12 @@
         "name": "INDUSTRY ALLATEED",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -975,6 +1665,12 @@
         "name": "TECHOLOCKY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -983,6 +1679,12 @@
         "name": "MASKIN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -991,6 +1693,12 @@
         "name": "PERSISTENCE GATE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -999,6 +1707,12 @@
         "name": "SAMEN-STARK",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1007,6 +1721,12 @@
         "name": "TECHNOLOCKIA ALLATEED",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1015,6 +1735,12 @@
         "name": "OMA PEMMA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1023,6 +1749,12 @@
         "name": "GEM LICKET",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1031,6 +1763,12 @@
         "name": "GEMSTELLE GENERATOR",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1039,6 +1777,12 @@
         "name": "SAMEN-STARK",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1047,6 +1791,12 @@
         "name": "BRAWFERMLAND",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1055,6 +1805,12 @@
         "name": "NEW ABERDEEN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1063,6 +1819,12 @@
         "name": "SAORSA GLEN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1071,6 +1833,12 @@
         "name": "LOKAHEIM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1079,6 +1847,12 @@
         "name": "PSEUDOTOPIA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1087,6 +1861,12 @@
         "name": "FAMEWOLF PEAK",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1095,14 +1875,26 @@
         "name": "NEKK POND",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
     "1791361107": {
         "inherits": "",
-        "name": "LAGERLÃF CITY",
+        "name": "LAGERLÖF CITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1111,6 +1903,12 @@
         "name": "NEW YEARNING CITY",
         "description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation. @ 985262540",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1119,6 +1917,12 @@
         "name": "BARRACKSBURG",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1127,6 +1931,12 @@
         "name": "HAVEN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1135,6 +1945,12 @@
         "name": "OTARU'S PLEDGE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1143,6 +1959,12 @@
         "name": "XIAMEN ANEW",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1151,6 +1973,12 @@
         "name": "MUNITION CITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1159,6 +1987,12 @@
         "name": "NEW HOPE CITY",
         "description": "The flagship Maximum Security City. Impregnable to Tyranny; the future of the Federation. @ 1147063964",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1167,6 +2001,12 @@
         "name": "HOPESHIRE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1175,6 +2015,12 @@
         "name": "REDFIELD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1183,14 +2029,26 @@
         "name": "DEMOCRACY'S LANDING",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
     "3900513024": {
         "inherits": "",
-        "name": "VÃHTJER",
+        "name": "VÁHTJER",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1199,6 +2057,12 @@
         "name": "MALMBERGET",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1207,6 +2071,12 @@
         "name": "ALTONBURG",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1215,6 +2085,12 @@
         "name": "ERSATZ",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1223,6 +2099,12 @@
         "name": "MALLSTRIP NODES",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1231,6 +2113,12 @@
         "name": "BIRTH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1239,6 +2127,12 @@
         "name": "GRAFSART",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1247,6 +2141,12 @@
         "name": "GRAFSWALLIT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1255,6 +2155,12 @@
         "name": "GRAFSEAD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1263,6 +2169,12 @@
         "name": "NEW VICTORY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1271,6 +2183,12 @@
         "name": "FREE APARTMENTS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1279,6 +2197,12 @@
         "name": "FRESH ORCHARDS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1287,6 +2211,12 @@
         "name": "EXCITEMENT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1295,6 +2225,12 @@
         "name": "SERVITUDE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1303,6 +2239,12 @@
         "name": "WEST MANAGEMENT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1311,6 +2253,12 @@
         "name": "EAST REST",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1319,6 +2267,12 @@
         "name": "ALIGNMENT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1327,6 +2281,12 @@
         "name": "PENSCEWT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1335,6 +2295,12 @@
         "name": "EAGLE'S LIKENESS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1343,6 +2309,12 @@
         "name": "CONSENSUS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1351,6 +2323,12 @@
         "name": "OLD CONUNDRUM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1359,6 +2337,12 @@
         "name": "RESOLVE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1367,6 +2351,12 @@
         "name": "UNANIMITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1375,6 +2365,12 @@
         "name": "UNISON",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1383,6 +2379,12 @@
         "name": "ON-EARSAHOU",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1391,6 +2393,12 @@
         "name": "CLOCKSTOP",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1399,6 +2407,12 @@
         "name": "MAGNITUDE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1407,6 +2421,12 @@
         "name": "GENERATORSVILLE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1415,6 +2435,12 @@
         "name": "SARAH SWIFT DAM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1423,6 +2449,12 @@
         "name": "EAST EMBANKMENT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1431,6 +2463,12 @@
         "name": "DEEPWELL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1439,6 +2477,12 @@
         "name": "GREATER ATLANTEAN POWER PLANT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1447,6 +2491,12 @@
         "name": "GUNPOWDER MEADOWS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1455,6 +2505,12 @@
         "name": "INVESTMENT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1463,6 +2519,12 @@
         "name": "FORT SANGUINE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1471,6 +2533,12 @@
         "name": "KNIGHT'S HONOR",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1479,6 +2547,12 @@
         "name": "SEVENSEAL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1487,6 +2561,12 @@
         "name": "LIBER-TEA TOWNSHIP",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1495,6 +2575,12 @@
         "name": "DYER STREETS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1503,6 +2589,12 @@
         "name": "COZY FLATS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1511,6 +2603,12 @@
         "name": "HUMANITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1519,6 +2617,12 @@
         "name": "RECON HEIGHTS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1527,6 +2631,12 @@
         "name": "SILO A",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1535,6 +2645,12 @@
         "name": "VOTER'S FALLOW",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1543,6 +2659,12 @@
         "name": "FROSTOWN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1551,6 +2673,12 @@
         "name": "ADNAN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1559,6 +2687,12 @@
         "name": "GARAGE DUNE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1567,6 +2701,12 @@
         "name": "DYN ALPHA 534-2",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1575,6 +2715,12 @@
         "name": "GRAPESHOT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1583,6 +2729,12 @@
         "name": "ICE BEND",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1591,6 +2743,12 @@
         "name": "OLUFSEN'S FOOTPRINT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1599,6 +2757,12 @@
         "name": "OLD HEARTH CITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1607,6 +2771,12 @@
         "name": "SCHOLAR'S MOOR",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1615,6 +2785,12 @@
         "name": "BLESTRAIL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1623,6 +2799,12 @@
         "name": "HILDOARA CENTRAL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1631,6 +2813,12 @@
         "name": "SHELTER",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1639,6 +2827,12 @@
         "name": "ADAM PARK",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1647,6 +2841,12 @@
         "name": "OLD INTERNMENTS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1655,6 +2855,12 @@
         "name": "HEATHERFIELD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1663,6 +2869,12 @@
         "name": "VENERATION",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1671,6 +2883,12 @@
         "name": "DARKWELL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1679,6 +2897,12 @@
         "name": "STACY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1687,6 +2911,12 @@
         "name": "PERSISTENCE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1695,6 +2925,12 @@
         "name": "HABITAT RED-2",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1703,6 +2939,12 @@
         "name": "INTREPIDNESS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1711,6 +2953,12 @@
         "name": "DEBTOR'S DOWNS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1719,6 +2967,12 @@
         "name": "PIT 8",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1727,6 +2981,12 @@
         "name": "NEW PENG",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1735,6 +2995,12 @@
         "name": "SERENITY SUMMIT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1743,6 +3009,12 @@
         "name": "MORSKIE OKO",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1751,6 +3023,12 @@
         "name": "CRYSTAL SLOPES",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1759,6 +3037,12 @@
         "name": "BUCU'S REST",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1767,6 +3051,12 @@
         "name": "VANQUISHMENT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1775,6 +3065,12 @@
         "name": "FREECREST",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1783,6 +3079,12 @@
         "name": "LIFEBLOOD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1791,6 +3093,12 @@
         "name": "REQUIEM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1799,6 +3107,12 @@
         "name": "DIVER'S REST",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1807,6 +3121,12 @@
         "name": "DISCOVERY GLEN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1815,6 +3135,12 @@
         "name": "TOIL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1823,6 +3149,12 @@
         "name": "RIZIO'S VISION",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1831,6 +3163,12 @@
         "name": "SONGGUO CUN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1839,6 +3177,12 @@
         "name": "XIN FUZHOU",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1847,6 +3191,12 @@
         "name": "SETTLEMENT 7",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1855,6 +3205,12 @@
         "name": "MT MONUMENT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1863,6 +3219,12 @@
         "name": "STRONGFORT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1871,6 +3233,12 @@
         "name": "PARRHESIA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1879,6 +3247,12 @@
         "name": "ISEGORIA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1887,6 +3261,12 @@
         "name": "WORKHOUSE 239-C",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1895,6 +3275,12 @@
         "name": "ABUNDANCE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1903,6 +3289,12 @@
         "name": "SEORAKSAN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1911,6 +3303,12 @@
         "name": "GYEONGSEONG",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1919,6 +3317,12 @@
         "name": "ANDROS GAMMA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1927,6 +3331,12 @@
         "name": "ANDROS DELTA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1935,6 +3345,12 @@
         "name": "SAPPHIRE LAKE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1943,6 +3359,12 @@
         "name": "PILOT'S BERTH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1951,6 +3373,12 @@
         "name": "PLETHORA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1959,6 +3387,12 @@
         "name": "ANTBOOT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1967,6 +3401,12 @@
         "name": "SKAR'S GARDENS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1975,6 +3415,12 @@
         "name": "FOUR CROWNS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1983,6 +3429,12 @@
         "name": "RINKTOWN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1991,6 +3443,12 @@
         "name": "PROSPERITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -1999,6 +3457,12 @@
         "name": "RESPITE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2007,6 +3471,12 @@
         "name": "EXO CITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2015,6 +3485,12 @@
         "name": "CHAIRMAN OYESLLO",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2023,6 +3499,12 @@
         "name": "CHAIRMAN OKOTE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2031,6 +3513,12 @@
         "name": "HOMESTEAD HILL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2039,6 +3527,12 @@
         "name": "YATAKHANE 263",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2047,6 +3541,12 @@
         "name": "NEW HEARTH CITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2055,6 +3555,12 @@
         "name": "LACED STRAIT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2063,6 +3569,12 @@
         "name": "QUENCH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2071,6 +3583,12 @@
         "name": "HARDY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2079,6 +3597,12 @@
         "name": "OBSERVATORY 6",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2087,6 +3611,12 @@
         "name": "ADVENTURE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2095,6 +3625,12 @@
         "name": "PORUGU",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2103,6 +3639,12 @@
         "name": "PADOSAN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2111,6 +3653,12 @@
         "name": "QUASAR",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2119,6 +3667,12 @@
         "name": "SYZYGY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2127,6 +3681,12 @@
         "name": "OLD DOVE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2135,6 +3695,12 @@
         "name": "BRNO",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2143,6 +3709,12 @@
         "name": "NEW EAGLE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2151,6 +3723,12 @@
         "name": "VILHELMINA DOROTHEA FREDRIKA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2159,6 +3737,12 @@
         "name": "MOGO PLAINS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2167,6 +3751,12 @@
         "name": "KALASATAMA PORT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2175,6 +3765,12 @@
         "name": "RESILIENCE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2183,6 +3779,12 @@
         "name": "HOT GATES",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2191,6 +3793,12 @@
         "name": "HANDAKAS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2199,6 +3807,12 @@
         "name": "HAKU CITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2207,6 +3821,12 @@
         "name": "CAMP LEIGHTON",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2215,6 +3835,12 @@
         "name": "NON-PARTISAN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2223,6 +3849,12 @@
         "name": "XIRAN'S CLAIM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2231,6 +3863,12 @@
         "name": "CORNUCOPOLIS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2239,6 +3877,12 @@
         "name": "MOBERG'S DREAM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2247,6 +3891,12 @@
         "name": "GROWL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2255,6 +3905,12 @@
         "name": "SUPERIORITY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2263,6 +3919,12 @@
         "name": "MEMORIALS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2271,6 +3933,12 @@
         "name": "QUELLED DISSENT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2279,6 +3947,12 @@
         "name": "INDEPENDENCE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2287,6 +3961,12 @@
         "name": "MESSAGER'S MESA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2295,6 +3975,12 @@
         "name": "BOPSFIELD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2303,6 +3989,12 @@
         "name": "DIPLOMACY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2311,6 +4003,12 @@
         "name": "ABUNDANCE BLUFF",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2319,6 +4017,12 @@
         "name": "MINERAL'S END",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2327,6 +4031,12 @@
         "name": "SHOTGUN SUMMIT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2335,6 +4045,12 @@
         "name": "PEOPLE'S HAND",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2343,6 +4059,12 @@
         "name": "TOPSOIL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2351,6 +4073,12 @@
         "name": "HUMAN WILL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2359,6 +4087,12 @@
         "name": "BLIGHTSMURK",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2367,6 +4101,12 @@
         "name": "LASTOME",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2375,6 +4115,12 @@
         "name": "LOOKOUT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2383,6 +4129,12 @@
         "name": "PEASE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2391,6 +4143,12 @@
         "name": "SEASSEFYRE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2399,6 +4157,12 @@
         "name": "EXALT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2407,6 +4171,12 @@
         "name": "EAGLESTAR ETERNAL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2415,6 +4185,12 @@
         "name": "PRAVOGRAD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2423,6 +4199,12 @@
         "name": "BRAVERY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2431,6 +4213,12 @@
         "name": "ACCOUNTANT GRAEBER",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2439,6 +4227,12 @@
         "name": "BEACHVIEW",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2447,6 +4241,12 @@
         "name": "THE VILLAS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2455,6 +4255,12 @@
         "name": "NEW ALEXANDRIA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2463,6 +4269,12 @@
         "name": "HOLL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2471,6 +4283,12 @@
         "name": "KILLJOY TOWN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2479,6 +4297,12 @@
         "name": "GRAVITAS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2487,6 +4311,12 @@
         "name": "DOGTOWN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2495,6 +4325,12 @@
         "name": "BEEFBURG",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2503,6 +4339,12 @@
         "name": "LUXE POINT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2511,6 +4353,12 @@
         "name": "SHADY OAKS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2519,6 +4367,12 @@
         "name": "DOSTOINSTVO",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2527,6 +4381,12 @@
         "name": "GLOBULUS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2535,6 +4395,12 @@
         "name": "ORBSHAM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2543,6 +4409,12 @@
         "name": "VERVE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2551,6 +4423,12 @@
         "name": "PEDIS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2559,6 +4437,12 @@
         "name": "DIGITI",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2567,6 +4451,12 @@
         "name": "MINERAL REFINEMENT WORKS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2575,6 +4465,12 @@
         "name": "ORESINK",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2583,6 +4479,12 @@
         "name": "VIBRANCY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2591,6 +4493,12 @@
         "name": "PORT MERCY",
         "description": "Since sheltering millions of loyal refugees in the Last Great War, Port Mercy has been a safe haven for any class-A citizen in need. @ 1550630253",
         "thumbnail": "0x3db983d4d2d9cacd",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2599,6 +4507,12 @@
         "name": "EQUALITY-ON-SEA",
         "description": "Named for the historic conference where Humanity was found to be the most Equal species in the Galaxy. @ 3671853082",
         "thumbnail": "0xb945f01e8c8ef6df",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2607,6 +4521,12 @@
         "name": "PROSPERITY CITY",
         "description": "Home to the Democratic Council, our proud Capital is a beacon of Progress, Productivity, and Patriotism. @ 1591080787",
         "thumbnail": "0xf10c3f8edabbcd27",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2615,6 +4535,12 @@
         "name": "ADMINISTRATIVE CENTER 02",
         "description": "Each form and application that passes through the hallowed halls of AdminCen is emblazoned with the Stamp of Ages, and should be given a place of honor in the home. @ 228403120",
         "thumbnail": "0x3db983d4d2d9cacd",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2623,6 +4549,12 @@
         "name": "EAGLEOPOLIS",
         "description": "This Great Heart of Commerce is renowned galaxy-wide for its Grand Shopping Malls and Splendorous Entertainment Centers. @ 2012659085",
         "thumbnail": "0xb945f01e8c8ef6df",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2631,6 +4563,12 @@
         "name": "REMEMBRANCE",
         "description": "Risen from the ashes of an ancient city, Rememberance is a monument to the Perseverance of Humankind. @ 2516460275",
         "thumbnail": "0x3db983d4d2d9cacd",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2639,6 +4577,12 @@
         "name": "YORK SUPREME",
         "description": "Following the Great York Conundrum, one City rose above the rest, pledging to hold its Hand over all other Yorks, so that no more blood be spilt between them. @ 472469401",
         "thumbnail": "0xb945f01e8c8ef6df",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2647,6 +4591,12 @@
         "name": "FORTITUDE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2655,6 +4605,12 @@
         "name": "FREEDOM'S TORCH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2663,6 +4619,12 @@
         "name": "FEARLESS HOLLOW",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2671,6 +4633,12 @@
         "name": "None",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "EnemyCity_Cyberstan",
         "links": [],
         "modifiers": []
     },
@@ -2679,6 +4647,12 @@
         "name": "None",
         "description": "None",
         "thumbnail": "None",
+        "race": "Automatons",
+        "difficulty": {
+            "min": 4,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2687,6 +4661,12 @@
         "name": "SCALD",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2695,6 +4675,12 @@
         "name": "REWA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2703,6 +4689,12 @@
         "name": "FOUNDRY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2711,6 +4703,12 @@
         "name": "STEEL RESOLVE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2719,14 +4717,26 @@
         "name": "NYA SKELLEFTEA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
     "687069999": {
         "inherits": "",
-        "name": "ÃDESHÃGRE",
+        "name": "ÖDESHÖGRE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2735,6 +4745,12 @@
         "name": "GOTHENBURG III",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2743,6 +4759,12 @@
         "name": "CHATOYANT",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2751,6 +4773,12 @@
         "name": "CARBONDALE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2759,6 +4787,12 @@
         "name": "PERIWINKLE MILLS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2767,6 +4801,12 @@
         "name": "FREEDOM ETERNAL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2775,6 +4815,12 @@
         "name": "NUOVA ROMA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2783,6 +4829,12 @@
         "name": "NEW KATHMANDU",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2791,6 +4843,12 @@
         "name": "PO'S RAVENNA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2799,6 +4857,12 @@
         "name": "REBELSGRAVE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2807,6 +4871,12 @@
         "name": "REFORMED-BY-TRUTH",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2815,6 +4885,12 @@
         "name": "OBEDIENCE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2823,6 +4899,12 @@
         "name": "SEQUIM",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2831,6 +4913,12 @@
         "name": "ONSEN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2839,6 +4927,12 @@
         "name": "GIRI",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2847,6 +4941,12 @@
         "name": "SAPPORO",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2855,6 +4955,12 @@
         "name": "PERSEVERANCE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2863,6 +4969,12 @@
         "name": "CLE ELUM REDIVIVA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2871,6 +4983,12 @@
         "name": "LAELIA",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2879,6 +4997,12 @@
         "name": "BLACKVEIN MINES",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2887,6 +5011,12 @@
         "name": "BENEVOLENCE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2895,6 +5025,12 @@
         "name": "ANNE'S VIGIL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2903,6 +5039,12 @@
         "name": "GREATWOOD MILLS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2911,6 +5053,12 @@
         "name": "FODDER GORGE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2919,6 +5067,12 @@
         "name": "BIRCHVILLE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2927,6 +5081,12 @@
         "name": "PROGRESS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2935,6 +5095,12 @@
         "name": "HAERSTVIK",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2943,6 +5109,12 @@
         "name": "SCARLET HAVEN",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2951,6 +5123,12 @@
         "name": "EDWARD'S GRAVE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2959,6 +5137,12 @@
         "name": "LIGHT-OF-LIBERTY",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2967,6 +5151,12 @@
         "name": "MIRAGE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2975,6 +5165,12 @@
         "name": "DRYWELL",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2983,6 +5179,12 @@
         "name": "NEW COB",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2991,6 +5193,12 @@
         "name": "GENE",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     },
@@ -2999,6 +5207,12 @@
         "name": "STARPASS",
         "description": "None",
         "thumbnail": "None",
+        "race": "Super Earth",
+        "difficulty": {
+            "min": 0,
+            "max": 99
+        },
+        "operation_type": "City_Reclaim",
         "links": [],
         "modifiers": []
     }
